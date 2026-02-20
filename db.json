@@ -1,0 +1,10 @@
+{
+  "v": "3.0.0",
+  "licenses": [],
+  "blocked": [],
+  "kill": 0,
+  "config": {
+    "checkInterval": 21600000,
+    "redirect": "aHR0cHM6Ly9uZXhnZW5wbHVnaW5zLmNvbS9lcnJvcg=="
+  }
+}
